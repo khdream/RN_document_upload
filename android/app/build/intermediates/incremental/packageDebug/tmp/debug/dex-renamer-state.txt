@@ -1,0 +1,13 @@
+#Thu Aug 19 08:48:21 ICT 2021
+path.3=classes_1.dex
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=D\:\\Data\\MyData\\00_work\\RN_Photo\\reference\\DevProject\\document_upload\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_1.dex
+base.2=D\:\\Data\\MyData\\00_work\\RN_Photo\\reference\\DevProject\\document_upload\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_0.dex
+base.1=D\:\\Data\\MyData\\00_work\\RN_Photo\\reference\\DevProject\\document_upload\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=D\:\\Data\\MyData\\00_work\\RN_Photo\\reference\\DevProject\\document_upload\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
